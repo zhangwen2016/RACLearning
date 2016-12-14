@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>RXCollections.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>ReactiveCocoa.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -17,12 +22,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>44F4E2078BE878AE51ADEBD99E26E86F</key>
+		<key>3A03D502C02FCA103FCC7D2ABEC39DDA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7F7C8A1D2549145D8486974A2AA6EA80</key>
+		<key>848A989B92264029BAAD9AD37B8B0CAD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9455129F8160C774D99613A77213EAB6</key>
 		<dict>
 			<key>primary</key>
 			<true/>

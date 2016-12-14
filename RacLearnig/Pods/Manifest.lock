@@ -6,13 +6,16 @@ PODS:
   - ReactiveCocoa/no-arc (2.5)
   - ReactiveCocoa/UI (2.5):
     - ReactiveCocoa/Core
+  - RXCollections (1.0)
 
 DEPENDENCIES:
   - ReactiveCocoa (= 2.5)
+  - RXCollections (~> 1.0)
 
 SPEC CHECKSUMS:
   ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  RXCollections: ef46a1c3b1f25711117ece94c48d9beae9f143a6
 
-PODFILE CHECKSUM: 4cf008135f460dea449242b7258e7e9f219b0f59
+PODFILE CHECKSUM: b4ef9a6e2e37b14b1fec9589e37e147534fd8d9c
 
 COCOAPODS: 1.0.1

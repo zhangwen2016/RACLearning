@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '9455129F8160C774D99613A77213EAB6'
-               BlueprintName = 'Pods-RacLearnig'
+               BlueprintIdentifier = '848A989B92264029BAAD9AD37B8B0CAD'
+               BlueprintName = 'RXCollections'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libPods-RacLearnig.a'>
+               BuildableName = 'libRXCollections.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
